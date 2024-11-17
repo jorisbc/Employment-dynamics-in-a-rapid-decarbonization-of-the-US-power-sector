@@ -1,0 +1,197 @@
+"","Technology","TechDetail","years","variable","value"
+"1","Biopower","Dedicated",2017,"CAPEX",3989.8176251074
+"2","Biopower","Dedicated",2017,"CAPEX",3989.8176251074
+"3","Coal_FE","newAvgCF",2017,"CAPEX",4035.69533259993
+"4","CommPV","Class5",2017,"CAPEX",1857.00022616689
+"5","CSP","Class3",2017,"CAPEX",7729.63907851748
+"6","Geothermal","HydroFlash",2017,"CAPEX",4680.82082973531
+"7","Hydropower","NPD1",2017,"CAPEX",6370.08905364211
+"8","LandbasedWind","Class4",2017,"CAPEX",1610.10860025975
+"9","NaturalGas_FE","CCAvgCF",2017,"CAPEX",926.643082306058
+"10","NaturalGas_FE","CCCCSAvgCF",2017,"CAPEX",2292.00262985556
+"11","NaturalGas_FE","CTAvgCF",2017,"CAPEX",919.154818930378
+"12","NaturalGas_FE","CTAvgCF",2017,"CAPEX",919.154818930378
+"13","Nuclear","Nuclear",2017,"CAPEX",6742.10511891667
+"14","OffShoreWind","Class3",2017,"CAPEX",3972.39640683913
+"15","Pumped Storage Hydropower","Class 3",NA,"CAPEX",NA
+"16","ResPV","Class5",2017,"CAPEX",2769.73524606302
+"17","Utility-Scale Battery Storage","4Hr Battery Storage",2017,"CAPEX",NA
+"18","UtilityPV","Class5",2017,"CAPEX",1110.73020450495
+"19","Biopower","Dedicated",2017,"Fuel",3.0621564928
+"20","Biopower","Dedicated",2017,"Fuel",3.0621564928
+"21","Coal_FE","newAvgCF",2017,"Fuel",17.98782734375
+"22","CommPV","Class5",2017,"Fuel",0
+"23","CSP","Class3",2017,"Fuel",0
+"24","Geothermal","HydroFlash",2017,"Fuel",0
+"25","Hydropower","NPD1",2017,"Fuel",0
+"26","LandbasedWind","Class4",2017,"Fuel",0
+"27","NaturalGas_FE","CCAvgCF",2017,"Fuel",3.3853076171875
+"28","NaturalGas_FE","CCCCSAvgCF",2017,"Fuel",3.3853076171875
+"29","NaturalGas_FE","CTAvgCF",2017,"Fuel",3.3853076171875
+"30","NaturalGas_FE","CTAvgCF",2017,"Fuel",3.3853076171875
+"31","Nuclear","Nuclear",2017,"Fuel",6.73944817089844
+"32","OffShoreWind","Class3",2017,"Fuel",0
+"33","Pumped Storage Hydropower","Class 3",NA,"Fuel",NA
+"34","ResPV","Class5",2017,"Fuel",0
+"35","Utility-Scale Battery Storage","4Hr Battery Storage",2017,"Fuel",0
+"36","UtilityPV","Class5",2017,"Fuel",0
+"37","Biopower","Dedicated",2017,"VOM",3.0621564928
+"38","Biopower","Dedicated",2017,"VOM",3.0621564928
+"39","Coal_FE","newAvgCF",2017,"VOM",5
+"40","CommPV","Class5",2017,"VOM",0
+"41","CSP","Class3",2017,"VOM",3.5
+"42","Geothermal","HydroFlash",2017,"VOM",NA
+"43","Hydropower","NPD1",2017,"VOM",0
+"44","LandbasedWind","Class4",2017,"VOM",0
+"45","NaturalGas_FE","CCAvgCF",2017,"VOM",2.77
+"46","NaturalGas_FE","CCCCSAvgCF",2017,"VOM",7.18
+"47","NaturalGas_FE","CTAvgCF",2017,"VOM",7.14
+"48","NaturalGas_FE","CTAvgCF",2017,"VOM",7.14
+"49","Nuclear","Nuclear",2017,"VOM",2.314453125
+"50","OffShoreWind","Class3",2017,"VOM",0
+"51","Pumped Storage Hydropower","Class 3",NA,"VOM",NA
+"52","ResPV","Class5",2017,"VOM",0
+"53","Utility-Scale Battery Storage","4Hr Battery Storage",2017,"VOM",NA
+"54","UtilityPV","Class5",2017,"VOM",0
+"55","Biopower","Dedicated",2017,"FOM",111.708984375
+"56","Biopower","Dedicated",2017,"FOM",111.708984375
+"57","Coal_FE","newAvgCF",2017,"FOM",33
+"58","CommPV","Class5",2017,"FOM",18.3602533858497
+"59","CSP","Class3",2017,"FOM",66
+"60","Geothermal","HydroFlash",2017,"FOM",135.226412327321
+"61","Hydropower","NPD1",2017,"FOM",111.730036420643
+"62","LandbasedWind","Class4",2017,"FOM",43.56
+"63","NaturalGas_FE","CCAvgCF",2017,"FOM",10.56
+"64","NaturalGas_FE","CCCCSAvgCF",2017,"FOM",33.62
+"65","NaturalGas_FE","CTAvgCF",2017,"FOM",12.23
+"66","NaturalGas_FE","CTAvgCF",2017,"FOM",12.23
+"67","Nuclear","Nuclear",2017,"FOM",100.888671875
+"68","OffShoreWind","Class3",2017,"FOM",121.966422909487
+"69","Pumped Storage Hydropower","Class 3",NA,"FOM",NA
+"70","ResPV","Class5",2017,"FOM",24.2003167323122
+"71","Utility-Scale Battery Storage","4Hr Battery Storage",2017,"FOM",NA
+"72","UtilityPV","Class5",2017,"FOM",19.8672197515342
+"73","Utility-Scale Battery Storage","4Hr Battery Storage",2018,"CAPEX",1633.39133607548
+"74","Biopower","Dedicated",2018,"CAPEX",4348.07989144589
+"75","Coal_FE","newAvgCF",2018,"CAPEX",4149.98823303465
+"76","CommPV","Class5",2018,"CAPEX",2052.10288597364
+"77","CSP","Class3",2018,"CAPEX",7834.58067360232
+"78","Geothermal","HydroFlash",2018,"CAPEX",6697.67681504346
+"79","Hydropower","NPD1",2018,"CAPEX",6672.86184732068
+"80","LandbasedWind","Class4",2018,"CAPEX",1555.8836815857
+"81","NaturalGas_FE","CCAvgCF",2018,"CAPEX",1088.3277390392
+"82","NaturalGas_FE","CCCCSAvgCF",2018,"CAPEX",2778.13766212386
+"83","NaturalGas_FE","CTAvgCF",2018,"CAPEX",982.9624613021
+"84","Nuclear","Nuclear",2018,"CAPEX",7185.65506395816
+"85","OffShoreWind","Class3",2018,"CAPEX",4278.53078790361
+"86","ResPV","Class5",2018,"CAPEX",3054.31820907486
+"87","UtilityPV","Class5",2018,"CAPEX",1599.90178377752
+"88","Utility-Scale Battery Storage","4Hr Battery Storage",2018,"FOM",40.8347834018869
+"89","Biopower","Dedicated",2018,"FOM",122.976424361493
+"90","Coal_FE","newAvgCF",2018,"FOM",39.6954813359528
+"91","CommPV","Class5",2018,"FOM",18
+"92","CSP","Class3",2018,"FOM",67.61205
+"93","Geothermal","HydroFlash",2018,"FOM",137.434811475188
+"94","Hydropower","NPD1",2018,"FOM",120.252528237285
+"95","LandbasedWind","Class4",2018,"FOM",43.2053846153846
+"96","NaturalGas_FE","CCAvgCF",2018,"FOM",12.8634577603143
+"97","NaturalGas_FE","CCCCSAvgCF",2018,"FOM",26.9941060903733
+"98","NaturalGas_FE","CTAvgCF",2018,"FOM",11.3948919449902
+"99","Nuclear","Nuclear",2018,"FOM",118.988212180747
+"100","OffShoreWind","Class3",2018,"FOM",128.440185379026
+"101","ResPV","Class5",2018,"FOM",22
+"102","UtilityPV","Class5",2018,"FOM",18.76
+"103","Utility-Scale Battery Storage","4Hr Battery Storage",2018,"VOM",0
+"104","Biopower","Dedicated",2018,"VOM",4.72495088408644
+"105","Coal_FE","newAvgCF",2018,"VOM",4.4007858546169
+"106","CommPV","Class5",2018,"VOM",0
+"107","CSP","Class3",2018,"VOM",4.2001425
+"108","Geothermal","HydroFlash",2018,"VOM",0
+"109","Hydropower","NPD1",2018,"VOM",0
+"110","LandbasedWind","Class4",2018,"VOM",0
+"111","NaturalGas_FE","CCAvgCF",2018,"VOM",2.16110019646365
+"112","NaturalGas_FE","CCCCSAvgCF",2018,"VOM",5.71709233791749
+"113","NaturalGas_FE","CTAvgCF",2018,"VOM",4.49901768172888
+"114","Nuclear","Nuclear",2018,"VOM",2.31827111984283
+"115","OffShoreWind","Class3",2018,"VOM",0
+"116","ResPV","Class5",2018,"VOM",0
+"117","UtilityPV","Class5",2018,"VOM",0
+"118","Utility-Scale Battery Storage","4Hr Battery Storage",2018,"Fuel",0
+"119","Biopower","Dedicated",2018,"Fuel",3.1356482486272
+"120","Coal_FE","newAvgCF",2018,"Fuel",17.3806996876228
+"121","CommPV","Class5",2018,"Fuel",0
+"122","CSP","Class3",2018,"Fuel",0
+"123","Geothermal","HydroFlash",2018,"Fuel",0
+"124","Hydropower","NPD1",2018,"Fuel",0
+"125","LandbasedWind","Class4",2018,"Fuel",0
+"126","NaturalGas_FE","CCAvgCF",2018,"Fuel",2.8082416502947
+"127","NaturalGas_FE","CCCCSAvgCF",2018,"Fuel",2.8082416502947
+"128","NaturalGas_FE","CTAvgCF",2018,"Fuel",2.8082416502947
+"129","Nuclear","Nuclear",2018,"Fuel",6.94924846561886
+"130","OffShoreWind","Class3",2018,"Fuel",0
+"131","ResPV","Class5",2018,"Fuel",0
+"132","UtilityPV","Class5",2018,"Fuel",0
+"133","Biopower","Dedicated",2019,"CAPEX",4345.95024672065
+"134","Coal_FE","newAvgCF",2019,"CAPEX",3121.64031407017
+"135","CommPV","Class5",2019,"CAPEX",1806.4626174575
+"136","CSP","Class3",2019,"CAPEX",6781.00777376035
+"137","Geothermal","HydroFlash",2019,"CAPEX",6662.4168216713
+"138","Hydropower","NPD1",2019,"CAPEX",2528.24940676936
+"139","LandbasedWind","Class4",2019,"CAPEX",1436
+"140","NaturalGas_FE","CCAvgCF",2019,"CAPEX",1053.69762137874
+"141","NaturalGas_FE","CCCCSAvgCF",2019,"CAPEX",2669.87898861314
+"142","NaturalGas_FE","CTAvgCF",2019,"CAPEX",936.376450215861
+"143","Nuclear","Nuclear",2019,"CAPEX",7388.07436280544
+"144","OffShoreWind","Class3",2019,"CAPEX",3858.98126484717
+"145","Pumped Storage Hydropower","Class 3",2019,"CAPEX",NA
+"146","ResPV","Class5",2019,"CAPEX",2773.34362218698
+"147","Utility-Scale Battery Storage","4Hr Battery Storage",2019,"CAPEX",1434.2856
+"148","UtilityPV","Class5",2019,"CAPEX",1391.15923459898
+"149","Biopower","Dedicated",2019,"FOM",149.833992094862
+"150","Coal_FE","newAvgCF",2019,"FOM",71.8
+"151","CommPV","Class5",2019,"FOM",19.2683854843885
+"152","CSP","Class3",2019,"FOM",65.61205
+"153","Geothermal","HydroFlash",2019,"FOM",138.006652032633
+"154","Hydropower","NPD1",2019,"FOM",63.25971
+"155","LandbasedWind","Class4",2019,"FOM",43
+"156","NaturalGas_FE","CCAvgCF",2019,"FOM",27.3
+"157","NaturalGas_FE","CCCCSAvgCF",2019,"FOM",65.1
+"158","NaturalGas_FE","CTAvgCF",2019,"FOM",20.9
+"159","Nuclear","Nuclear",2019,"FOM",144.97233201581
+"160","OffShoreWind","Class3",2019,"FOM",118.460786872893
+"161","Pumped Storage Hydropower","Class 3",2019,"FOM",17.6
+"162","ResPV","Class5",2019,"FOM",27.3970296056575
+"163","Utility-Scale Battery Storage","4Hr Battery Storage",2019,"FOM",35.85714
+"164","UtilityPV","Class5",2019,"FOM",22.8876686157501
+"165","Biopower","Dedicated",2019,"VOM",4.79249011857707
+"166","Coal_FE","newAvgCF",2019,"VOM",7.86
+"167","CommPV","Class5",2019,"VOM",0
+"168","CSP","Class3",2019,"VOM",3.5001425
+"169","Geothermal","HydroFlash",2019,"VOM",0
+"170","Hydropower","NPD1",2019,"VOM",0
+"171","LandbasedWind","Class4",2019,"VOM",0
+"172","NaturalGas_FE","CCAvgCF",2019,"VOM",1.74
+"173","NaturalGas_FE","CCCCSAvgCF",2019,"VOM",5.73
+"174","NaturalGas_FE","CTAvgCF",2019,"VOM",4.95
+"175","Nuclear","Nuclear",2019,"VOM",2.35177865612648
+"176","OffShoreWind","Class3",2019,"VOM",0
+"177","Pumped Storage Hydropower","Class 3",2019,"VOM",0.5063
+"178","ResPV","Class5",2019,"VOM",0
+"179","Utility-Scale Battery Storage","4Hr Battery Storage",2019,"VOM",0
+"180","UtilityPV","Class5",2019,"VOM",0
+"181","Biopower","Dedicated",2019,"Fuel",3.19246619489232
+"182","Coal_FE","newAvgCF",2019,"Fuel",NA
+"183","CommPV","Class5",2019,"Fuel",0
+"184","CSP","Class3",2019,"Fuel",0
+"185","Geothermal","HydroFlash",2019,"Fuel",0
+"186","Hydropower","NPD1",2019,"Fuel",0
+"187","LandbasedWind","Class4",2019,"Fuel",0
+"188","NaturalGas_FE","CCAvgCF",2019,"Fuel",NA
+"189","NaturalGas_FE","CCCCSAvgCF",2019,"Fuel",NA
+"190","NaturalGas_FE","CTAvgCF",2019,"Fuel",NA
+"191","Nuclear","Nuclear",2019,"Fuel",7.09287024117819
+"192","OffShoreWind","Class3",2019,"Fuel",0
+"193","Pumped Storage Hydropower","Class 3",2019,"Fuel",0
+"194","ResPV","Class5",2019,"Fuel",0
+"195","Utility-Scale Battery Storage","4Hr Battery Storage",2019,"Fuel",0
+"196","UtilityPV","Class5",2019,"Fuel",0

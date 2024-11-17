@@ -1,0 +1,10 @@
+# ignore notebook details
+*checkpoint.ipynb
+*.pyc
+.ipynb_checkpoints/
+
+# ignore visual studio details
+**/.vs/
+
+# ignore large files
+**/oes_research_2018_allsectors.xlsx

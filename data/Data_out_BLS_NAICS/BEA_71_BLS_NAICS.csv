@@ -1,0 +1,108 @@
+,index,BEA_71_Code,BEA_71_Industry,2012_NAICS_Code,2012_NAICS_Industry,level,BLS_NAICS,OWNERSHIP,level_new,BLS_match
+0,0,111CA,Farms,111000,Crop Production,3,110000,,2,False
+1,1,111CA,Farms,112000,Animal Production and Aquaculture,3,110000,,2,False
+2,2,113FF,"Forestry, fishing, and related activities",113000,Forestry and Logging,3,113000,,3,True
+3,3,113FF,"Forestry, fishing, and related activities",114000,"Fishing, Hunting and Trapping",3,110000,,2,False
+4,4,113FF,"Forestry, fishing, and related activities",115000,Support Activities for Agriculture and Forestry,3,115000,,3,True
+5,5,211,Oil and gas extraction,211000,Oil and Gas Extraction,3,211000,,3,True
+6,6,212,"Mining, except oil and gas",212000,Mining (except Oil and Gas),3,212000,,3,True
+7,7,213,Support activities for mining,213000,Support Activities for Mining,3,213000,,3,True
+8,8,22,Utilities,220000,Utilities,2,220000,,2,True
+9,9,23,Construction,230000,Construction,2,230000,,2,True
+10,10,311FT,Food and beverage and tobacco products,311000,Food Manufacturing,3,311000,,3,True
+11,11,311FT,Food and beverage and tobacco products,312000,Beverage and Tobacco Product Manufacturing,3,312000,,3,True
+12,12,313TT,Textile mills and textile product mills,313000,Textile Mills,3,313000,,3,True
+13,13,313TT,Textile mills and textile product mills,314000,Textile Product Mills,3,314000,,3,True
+14,14,315AL,Apparel and leather and allied products,315000,Apparel Manufacturing,3,315000,,3,True
+15,15,315AL,Apparel and leather and allied products,316000,Leather and Allied Product Manufacturing,3,316000,,3,True
+16,16,321,Wood products,321000,Wood Product Manufacturing,3,321000,,3,True
+17,17,322,Paper products,322000,Paper Manufacturing,3,322000,,3,True
+18,18,323,Printing and related support activities,323000,Printing and Related Support Activities,3,323000,,3,True
+19,19,324,Petroleum and coal products,324000,Petroleum and Coal Products Manufacturing,3,324000,,3,True
+20,20,325,Chemical products,325000,Chemical Manufacturing,3,325000,,3,True
+21,21,326,Plastics and rubber products,326000,Plastics and Rubber Products Manufacturing,3,326000,,3,True
+22,22,327,Nonmetallic mineral products,327000,Nonmetallic Mineral Product Manufacturing,3,327000,,3,True
+23,23,331,Primary metals,331000,Primary Metal Manufacturing,3,331000,,3,True
+24,24,332,Fabricated metal products,332000,Fabricated Metal Product Manufacturing,3,332000,,3,True
+25,25,333,Machinery,333000,Machinery Manufacturing,3,333000,,3,True
+26,26,334,Computer and electronic products,334000,Computer and Electronic Product Manufacturing,3,334000,,3,True
+27,27,335,"Electrical equipment, appliances, and components",335000,"Electrical Equipment, Appliance, and Component Manufacturing",3,335000,,3,True
+28,28,3364OT,Other transportation equipment,336400,Aerospace Product and Parts Manufacturing,4,336400,,4,True
+29,29,3364OT,Other transportation equipment,336500,Railroad Rolling Stock Manufacturing,4,336500,,4,True
+30,30,3364OT,Other transportation equipment,336600,Ship and Boat Building,4,336600,,4,True
+31,31,3364OT,Other transportation equipment,336900,Other Transportation Equipment Manufacturing,4,336900,,4,True
+32,32,3361MV,"Motor vehicles, bodies and trailers, and parts",336100,Motor Vehicle Manufacturing,4,336100,,4,True
+33,33,3361MV,"Motor vehicles, bodies and trailers, and parts",336200,Motor Vehicle Body and Trailer Manufacturing,4,336200,,4,True
+34,34,3361MV,"Motor vehicles, bodies and trailers, and parts",336300,Motor Vehicle Parts Manufacturing,4,336300,,4,True
+35,35,337,Furniture and related products,337000,Furniture and Related Product Manufacturing,3,337000,,3,True
+36,36,339,Miscellaneous manufacturing,339000,Miscellaneous Manufacturing,3,339000,,3,True
+37,37,42,Wholesale trade,420000,Wholesale Trade,2,420000,,2,True
+38,38,441,Motor vehicle and parts dealers,441000,Motor Vehicle and Parts Dealers ,3,441000,,3,True
+39,39,4A0,Other retail,442000,Furniture and Home Furnishings Stores ,3,442000,,3,True
+40,40,4A0,Other retail,443000,Electronics and Appliance Stores ,3,443000,,3,True
+41,41,4A0,Other retail,444000,Building Material and Garden Equipment and Supplies Dealers ,3,444000,,3,True
+42,42,445,Food and beverage stores,445000,Food and Beverage Stores ,3,445000,,3,True
+43,43,4A0,Other retail,446000,Health and Personal Care Stores ,3,446000,,3,True
+44,44,4A0,Other retail,447000,Gasoline Stations ,3,447000,,3,True
+45,45,4A0,Other retail,448000,Clothing and Clothing Accessories Stores ,3,448000,,3,True
+46,46,452,General merchandise stores,452000,General Merchandise Stores ,3,452000,,3,True
+47,47,4A0,Other retail,451000,"Sporting Goods, Hobby, Musical Instrument, and Book Stores ",3,451000,,3,True
+48,48,4A0,Other retail,453000,Miscellaneous Store Retailers ,3,453000,,3,True
+49,49,4A0,Other retail,454000,Nonstore Retailers ,3,454000,,3,True
+50,50,481,Air transportation,481000,Air Transportation,3,481000,,3,True
+51,51,482,Rail transportation,482000,Rail Transportation,3,482000,,3,True
+52,52,483,Water transportation,483000,Water Transportation,3,483000,,3,True
+53,53,484,Truck transportation,484000,Truck Transportation,3,484000,,3,True
+54,54,485,Transit and ground passenger transportation,485000,Transit and Ground Passenger Transportation,3,485000,,3,True
+55,55,486,Pipeline transportation,486000,Pipeline Transportation,3,486000,,3,True
+56,56,487OS,Other transportation and support activities,487000,Scenic and Sightseeing Transportation,3,487000,,3,True
+57,57,487OS,Other transportation and support activities,488000,Support Activities for Transportation,3,488000,,3,True
+58,58,487OS,Other transportation and support activities,492000,Couriers and Messengers,3,492000,,3,True
+59,59,493,Warehousing and storage,493000,Warehousing and Storage,3,493000,,3,True
+60,60,511,"Publishing industries, except internet (includes software)",511000,Publishing Industries (except Internet),3,511000,,3,True
+61,61,512,Motion picture and sound recording industries,512000,Motion Picture and Sound Recording Industries,3,512000,,3,True
+62,62,513,Broadcasting and telecommunications,515000,Broadcasting (except Internet),3,515000,,3,True
+63,63,513,Broadcasting and telecommunications,517000,Telecommunications,3,517000,,3,True
+64,64,514,"Data processing, internet publishing, and other information services",518000,"Data Processing, Hosting, and Related Services",3,518000,,3,True
+65,65,514,"Data processing, internet publishing, and other information services",519000,Other Information Services,3,519000,,3,True
+66,66,521CI,"Federal Reserve banks, credit intermediation, and related activities",521000,Monetary Authorities-Central Bank,3,521000,,3,True
+67,67,521CI,"Federal Reserve banks, credit intermediation, and related activities",522000,Credit Intermediation and Related Activities,3,522000,,3,True
+68,68,523,"Securities, commodity contracts, and investments",523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",3,523000,,3,True
+69,69,524,Insurance Carriers and Related Activities,524000,Insurance Carriers and Related Activities,3,524000,,3,True
+70,70,525,"Funds, trusts, and other financial vehicles",525000,"Funds, Trusts, and Other Financial Vehicles ",3,525000,,3,True
+71,71,HS,Real estate,531100,Lessors of Real Estate,4,531000,,3,False
+72,72,ORE,Real estate,531200,Offices of Real Estate Agents and Brokers,4,531000,,3,False
+73,73,ORE,Real estate,531300,Activities Related to Real Estate,4,531000,,3,False
+74,74,532RL,Rental and leasing services and lessors of intangible assets,532000,Rental and Leasing Services,3,532000,,3,True
+75,75,532RL,Rental and leasing services and lessors of intangible assets,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),3,533000,,3,True
+76,76,5411,Legal services,541100,Legal Services,4,541100,,4,True
+77,77,5412OP,"Miscellaneous professional, scientific, and technical services",541200,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",4,541200,,4,True
+78,78,5412OP,"Miscellaneous professional, scientific, and technical services",541300,"Architectural, Engineering, and Related Services",4,541300,,4,True
+79,79,5412OP,"Miscellaneous professional, scientific, and technical services",541400,Specialized Design Services,4,541400,,4,True
+80,80,5415,Computer systems design and related services,541500,Computer Systems Design and Related Services,4,541500,,4,True
+81,81,5412OP,"Miscellaneous professional, scientific, and technical services",541600,"Management, Scientific, and Technical Consulting Services",4,541600,,4,True
+82,82,5412OP,"Miscellaneous professional, scientific, and technical services",541700,Scientific Research and Development Services,4,541700,,4,True
+83,83,5412OP,"Miscellaneous professional, scientific, and technical services",541800,"Advertising, Public Relations, and Related Services",4,541800,,4,True
+84,84,5412OP,"Miscellaneous professional, scientific, and technical services",541900,"Other Professional, Scientific, and Technical Services",4,541900,,4,True
+85,85,55,Management of companies and enterprises,550000,Management of Companies and Enterprises,2,550000,,2,True
+86,86,561,Administrative and support services,561000,Administrative and Support Services,3,561000,,3,True
+87,87,562,Waste management and remediation services,562000,Waste Management and Remediation Services,3,562000,,3,True
+88,89,621,Ambulatory health care services,621000,Ambulatory Health Care Services,3,621000,,3,True
+89,91,623,Nursing and residential care facilities,623000,Nursing and Residential Care Facilities,3,623000,,3,True
+90,92,624,Social assistance,624000,Social Assistance,3,624000,,3,True
+91,93,711AS,"Performing arts, spectator sports, museums, and related activities",711000,"Performing Arts, Spectator Sports, and Related Industries",3,711000,,3,True
+92,94,711AS,"Performing arts, spectator sports, museums, and related activities",712000,"Museums, Historical Sites, and Similar Institutions",3,712000,,3,True
+93,95,713,"Amusements, gambling, and recreation industries",713000,"Amusement, Gambling, and Recreation Industries",3,713000,,3,True
+94,96,721,Accommodation,721000,Accommodation,3,721000,,3,True
+95,97,722,Food services and drinking places,722000,Food Services and Drinking Places,3,722000,,3,True
+96,98,81,"Other services, except government",810000,Other Services (except Public Administration),2,810000,,2,True
+97,99,GFE,Federal government enterprises,491000,Transportation and Warehousing,3,491000,,3,True
+98,100,GFGN,Federal general government (non-military),920000,Public Administration,2,990000,,2,False
+99,101,GFE,Federal government enterprises,920000,Public Administration,2,990000,,2,False
+100,102,GSLG,State and local general government,920000,Public Administration,2,990000,,2,False
+101,0,61,Educational services,611000,,3,611000Private,Private,3,True
+102,1,GSLG,State and local general government,611000,,3,611000Local government,Local government,3,True
+103,2,GSLG,State and local general government,611000,,3,611000State government,State government,3,True
+104,3,622,Hospitals,622000,,3,622000Private,Private,3,True
+105,4,GSLE,State and local government enterprises,622000,,3,622000Local government,Local government,3,True
+106,5,GSLE,State and local government enterprises,622000,,3,622000State government,State government,3,True

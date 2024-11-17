@@ -1,0 +1,49 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>7efc13f5-abb5-4681-afca-884ba8ae12fa</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Energy_occ_io_sensitivity.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Energy_occ_io_sensitivity</Name>
+    <RootNamespace>Energy_occ_io_sensitivity</RootNamespace>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
+    <Environment>PYDEVD_WARN_SLOW_RESOLVE_TIMEOUT=10</Environment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="create_figures_aggregate_jobs.py" />
+    <Compile Include="create_figures_sens_analysis.py" />
+    <Compile Include="Energy_occ_io_sensitivity.py" />
+    <Compile Include="IO_2018_include_opex_IO.py" />
+    <Compile Include="help_sens.py" />
+    <Compile Include="run_model.py" />
+    <Compile Include="settings.py" />
+    <Compile Include="TransDist_opexcapex.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="master_config.csv" />
+    <Content Include="modelrun_id.csv" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

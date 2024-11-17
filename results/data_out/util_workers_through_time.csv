@@ -1,0 +1,59 @@
+,yr,naics,naics_title,tot_emp,a_mean,a_median
+0,19,221100,"Electric Power Generation, Transmission and Distribution",384460,84280,81430
+1,19,221200,Natural Gas Distribution,109430,85010,79590
+2,19,221300,"Water, Sewage and Other Systems",53210,54730,47310
+3,19,221111,Hydroelectric Power Generation,6210,75720,75490
+4,19,221112,Fossil Fuel Electric Power Generation,83640,85900,84360
+5,19,221113,Nuclear Electric Power Generation,42330,97770,95720
+6,19,221114,Solar Electric Power Generation,2980,89790,70860
+7,19,221115,Wind Electric Power Generation,6200,81600,69850
+8,19,221116,Geothermal Electric Power Generation,1060,76680,71860
+9,19,221117,Biomass Electric Power Generation,1840,70730,63740
+10,19,221118,Other Electric Power Generation,1280,89330,79820
+11,18,221100,"Electric Power Generation, Transmission and Distribution",393110,81670,78710
+12,18,221200,Natural Gas Distribution,109210,83200,77810
+13,18,221300,"Water, Sewage and Other Systems",51520,52840,45210
+14,18,221111,Hydroelectric Power Generation,6100,75950,75330
+15,18,221112,Fossil Fuel Electric Power Generation,89120,82680,80950
+16,18,221113,Nuclear Electric Power Generation,43940,90440,89510
+17,18,221114,Solar Electric Power Generation,2560,87260,76030
+18,18,221115,Wind Electric Power Generation,5860,76690,68190
+19,18,221116,Geothermal Electric Power Generation,1070,73700,66920
+20,18,221117,Biomass Electric Power Generation,1380,68490,59700
+21,18,221118,Other Electric Power Generation,1450,92470,85830
+22,17,221100,"Electric Power Generation, Transmission and Distribution",389680,79510,76610
+23,17,221200,Natural Gas Distribution,112420,81120,75410
+24,17,221300,"Water, Sewage and Other Systems",50170,52120,44960
+25,17,221111,Hydroelectric Power Generation,5610,71190,70100
+26,17,221112,Fossil Fuel Electric Power Generation,92310,81080,79070
+27,17,221113,Nuclear Electric Power Generation,45880,89550,88710
+28,17,221114,Solar Electric Power Generation,2180,83520,72430
+29,17,221115,Wind Electric Power Generation,5240,73720,64130
+30,17,221116,Geothermal Electric Power Generation,1130,71430,67350
+31,17,221117,Biomass Electric Power Generation,1380,64060,54460
+32,17,221118,Other Electric Power Generation,1160,98730,90370
+33,16,221100,"Electric Power Generation, Transmission and Distribution",387380,77810,74930
+34,16,221200,Natural Gas Distribution,113220,78890,73600
+35,16,221300,"Water, Sewage and Other Systems",49350,50910,44180
+36,16,221111,Hydroelectric Power Generation,5850,72810,72570
+37,16,221112,Fossil Fuel Electric Power Generation,94100,77990,75970
+38,16,221113,Nuclear Electric Power Generation,48140,88400,87570
+39,16,221114,Solar Electric Power Generation,2290,90250,76010
+40,16,221115,Wind Electric Power Generation,4220,72170,63980
+41,16,221116,Geothermal Electric Power Generation,1120,69560,65310
+42,16,221117,Biomass Electric Power Generation,1410,63050,56110
+43,16,221118,Other Electric Power Generation,810,82320,71680
+44,15,221100,"Electric Power Generation, Transmission and Distribution",392570,75250,72610
+45,15,221200,Natural Gas Distribution,112830,75770,70620
+46,15,221300,"Water, Sewage and Other Systems",48490,49460,42650
+47,15,221111,Hydroelectric Power Generation,5990,68120,66650
+48,15,221112,Fossil Fuel Electric Power Generation,95840,75300,73640
+49,15,221113,Nuclear Electric Power Generation,48160,85820,85300
+50,15,221114,Solar Electric Power Generation,1760,90160,76520
+51,15,221115,Wind Electric Power Generation,3940,68060,59100
+52,15,221116,Geothermal Electric Power Generation,1070,75970,67540
+53,15,221117,Biomass Electric Power Generation,1360,62820,57920
+54,15,221118,Other Electric Power Generation,780,86400,78850
+55,14,221100,"Electric Power Generation, Transmission and Distribution",389750,72800,70380
+56,14,221200,Natural Gas Distribution,109880,74270,69350
+57,14,221300,"Water, Sewage and Other Systems",48350,48830,42210

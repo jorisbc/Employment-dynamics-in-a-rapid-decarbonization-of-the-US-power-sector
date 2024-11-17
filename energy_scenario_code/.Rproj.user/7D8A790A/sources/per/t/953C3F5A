@@ -1,0 +1,29 @@
+{
+    "id": "953C3F5A",
+    "path": "D:/Science/2021_12_09_production_nw_rewiring/2022_08_scenarios_for_joris-maria-paper/analysis/0_extract_nrel_atb_info_V2.R",
+    "project_path": "analysis/0_extract_nrel_atb_info_V2.R",
+    "type": "r_source",
+    "hash": "3070755871",
+    "contents": "",
+    "dirty": false,
+    "created": 1674149415328.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,31",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "docOutlineSize": "119"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1664553565,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1664553565,
+    "read_only": false,
+    "read_only_alternatives": []
+}

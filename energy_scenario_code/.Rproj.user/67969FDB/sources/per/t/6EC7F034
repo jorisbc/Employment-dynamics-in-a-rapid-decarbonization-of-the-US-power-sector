@@ -1,0 +1,26 @@
+{
+    "id": "6EC7F034",
+    "path": "~/Ox/Energy transition jobs multilayer/analysis/energy_scenario_code-20230120/code_and_data_for_joris/2022_08_scenarios_for_joris-maria-paper/analysis/1_match_all_data.R",
+    "project_path": "analysis/1_match_all_data.R",
+    "type": "r_source",
+    "hash": "3640812854",
+    "contents": "",
+    "dirty": false,
+    "created": 1680766229821.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1674205975,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1674205975,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,13 @@
+name: trns
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.4
+  - pandas=1.5.3
+  - scipy=1.9.1
+  - networkx=3.1
+  - seaborn=0.12.2
+  - openpyxl=3.1.2
+  - xlrd=2.0.1
+  - tqdm=4.66.1

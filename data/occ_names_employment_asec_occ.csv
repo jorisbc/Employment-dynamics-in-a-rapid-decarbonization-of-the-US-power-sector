@@ -1,0 +1,533 @@
+Code,Label,EMP_2011_2019_avg
+10,Chief executives,1549432.1475000076
+20,General and operations managers,1002472.2437500018
+40,Advertising and promotions managers,65394.02250000002
+50,Marketing and sales managers,1038258.1987500009
+60,Public relations managers,72888.44249999996
+100,Administrative services managers,163116.44749999998
+110,Computer and information systems managers,623760.4825000004
+120,Financial managers,1197048.2387499984
+135,Compensation and Benefits Managers,23532.723749999997
+136,Human Resources Managers,271413.8087500001
+137,Training and Development Managers,47340.04124999998
+140,Industrial production managers,266961.9337500002
+150,Purchasing managers,206363.03625000035
+160,Transportation storage and distribution managers,272128.51250000024
+205,Farmers Ranchers and Other Agricultural Managers,898893.4800000018
+220,Construction managers,885214.9712500011
+230,Education administrators,917442.0887500016
+300,Engineering managers,125355.28749999985
+310,Food service managers,1128472.7987499987
+325,Funeral service managers,3432.3950000000004
+330,Gaming managers,21336.567500000012
+340,Lodging managers,156372.8375000001
+350,Medical and health services managers,618664.7712500009
+360,Natural sciences managers,16367.660000000002
+410,Property real estate and community association managers,699301.8137500014
+420,Social and community service managers,392423.8437499998
+425,Emergency Management Directors,6441.504999999999
+430,Managers all other,4196055.376250003
+500,Agents and business managers of artists performers and athletes,45418.741250000014
+510,Purchasing agents and buyers farm products,13130.313749999998
+520,Wholesale and retail buyers except farm products,200671.3812499999
+530,Purchasing agents except wholesale retail and farm products,275832.14375000045
+540,Claims adjusters appraisers examiners and investigators,333356.7825000004
+565,Compliance officers,241219.68125000017
+600,Cost estimators,124496.53499999997
+630,Human resource workers,665465.2837500002
+640,Compensation benefits and job analysis specialists,70006.23
+650,Training and development specialists,139395.28249999997
+700,Logisticians,108555.34375000003
+710,Management analysts,867578.5937500013
+725,Meeting convention and event planners,141343.56375
+726,Fundraisers,79551.02624999997
+735,Market research analysts and marketing specialists,283043.3012499999
+740,Business operations specialists all other,262495.64375000005
+800,Accountants and auditors,1810142.7300000058
+810,Appraisers and assessors of real estate,72432.61375
+820,Budget analysts,52997.48875000003
+830,Credit analysts,26932.997499999998
+840,Financial analysts,229595.49374999994
+850,Personal financial advisors,480151.6650000001
+860,Insurance underwriters,108908.60499999997
+900,Financial examiners,11723.847499999998
+910,Loan counselors and officers,359370.3550000007
+930,Tax examiners collectors and revenue agents,70693.87125000001
+940,Tax preparers,159755.3399999999
+950,Financial specialists all other,71496.87374999998
+1005,Computer and information research scientists,20388.68125
+1006,Computer systems analysts,549710.7799999996
+1007,Information security analysts,71763.94375
+1010,Computer programmers,457934.3512499995
+1020,Software developers applications and systems software,1360112.0174999996
+1030,Web developers,193717.2899999997
+1050,Computer support specialists,525958.1199999999
+1060,Database administrators,109444.89749999992
+1105,Network and computer systems administrators,214734.89749999964
+1106,Computer network architects,116572.42250000007
+1107,Computer occupations all other,516212.2037499998
+1200,Actuaries,23363.655000000002
+1210,Mathematicians,965.315
+1220,Operations research analysts,134569.30250000008
+1230,Statisticians,9367.160000000002
+1240,Miscellaneous mathematical science occupations,75307.72000000003
+1300,Architects except naval,216584.71000000002
+1310,Surveyors cartographers and photogrammetrists,42636.118750000016
+1320,Aerospace engineers,133000.17124999998
+1330,Agricultural engineers,828.1850000000001
+1340,Biomedical engineers,13407.98875
+1350,Chemical engineers,78412.3575
+1360,Civil engineers,390864.76249999914
+1400,Computer hardware engineers,78930.37125000003
+1410,Electrical and electronics engineers,312603.0875
+1420,Environmental engineers,38153.471249999995
+1430,Industrial engineers including health and safety,201142.9312500001
+1440,Marine engineers and naval architects,13547.153749999998
+1450,Materials engineers,38344.62999999999
+1460,Mechanical engineers,312357.63750000007
+1500,Mining and geological engineers including mining safety engineers,12415.515000000003
+1510,Nuclear engineers,11424.252499999999
+1520,Petroleum engineers,28616.936250000002
+1530,Engineers all other,466027.4437500001
+1540,Drafters,131423.96625000008
+1550,Engineering technicians except drafters,407291.1937500003
+1560,Surveying and mapping technicians,79566.09625
+1600,Agricultural and food scientists,39822.470000000016
+1610,Biological scientists,107034.64749999998
+1640,Conservation scientists and foresters,28837.895000000015
+1650,Medical scientists,158351.77500000005
+1660,Life scientists all other,213.00125
+1700,Astronomers and physicists,21036.473750000005
+1710,Atmospheric and space scientists,8430.25875
+1720,Chemists and materials scientists,106726.09875000003
+1740,Environmental scientists and geoscientists,107563.53624999996
+1760,Physical scientists all other,230260.72500000018
+1800,Economists,35386.818749999984
+1815,Survey researchers,460.38875
+1820,Psychologists,205330.72499999986
+1830,Sociologists,1298.7975
+1840,Urban and regional planners,30886.63000000001
+1860,Miscellaneous social scientists and related workers,53171.67499999996
+1900,Agricultural and food science technicians,26073.59625000001
+1910,Biological technicians,22734.38875000001
+1920,Chemical technicians,66852.38874999998
+1930,Geological and petroleum technicians,21696.761249999992
+1940,Nuclear technicians,910.8675
+1950,Social science research assistants,458.27375
+1965,Miscellaneous life physical and social science technicians,154434.05000000002
+2000,Counselors,811934.1337499983
+2010,Social workers,794367.3975000004
+2015,Probation officers and correctional treatment specialists,95441.19874999992
+2016,Social and human service assistants,197768.7812500001
+2025,Miscellaneous community and social service specialists including health educators and community health workers,85274.82375000004
+2040,Clergy,428746.0237499988
+2050,Directors religious activities and education,69408.74625000008
+2060,Religious workers all other,84885.22000000004
+2100,Lawyers Judges magistrates and other judicial workers,1193318.2787500003
+2105,Judicial law clerks,11483.071249999999
+2145,Paralegals and legal assistants,400079.5949999993
+2160,Miscellaneous legal support workers,190542.65749999997
+2200,Postsecondary teachers,1409186.6362499997
+2300,Preschool and kindergarten teachers,726344.4262499996
+2310,Elementary and middle school teachers,3282887.9424999957
+2320,Secondary school teachers,1128430.2800000017
+2330,Special education teachers,387249.28375000035
+2340,Other teachers and instructors,923171.1399999998
+2400,Archivists curators and museum technicians,54562.27375000005
+2430,Librarians,188325.80750000032
+2440,Library technicians,38207.00625
+2540,Teacher assistants,1009994.6824999996
+2550,Other education training and library workers,176726.2075
+2600,Artists and related workers,217329.22375000015
+2630,Designers,875860.5475000035
+2700,Actors,53365.573749999996
+2710,Producers and directors,175384.72999999984
+2720,Athletes coaches umpires and related workers,311260.8625000004
+2740,Dancers and choreographers,17766.703750000004
+2750,Musicians singers and related workers,183870.54249999998
+2760,Entertainers and performers sports and related workers all other,49274.075
+2800,Announcers,46078.465
+2810,News analysts reporters and correspondents,86228.33875
+2825,Public relations specialists,141890.11125000005
+2830,Editors,173203.37625000015
+2840,Technical writers,68323.78125
+2850,Writers and authors,217912.12375
+2860,Miscellaneous media and communications workers,102769.19874999997
+2900,Broadcast and sound engineering technicians and radio operators,112802.05625
+2910,Photographers,178011.45250000007
+2920,Television video and motion picture camera operators and editors,67565.77499999997
+2960,Media and communications workers all other,337.47625
+3000,Chiropractors,59580.267500000016
+3010,Dentists,179983.5849999999
+3030,Dietitians and nutritionists,108839.80375000006
+3040,Optometrists,39045.79125000004
+3050,Pharmacists,303047.74249999993
+3060,Physicians and surgeons,987991.8999999994
+3110,Physician assistants,101946.89124999996
+3120,Podiatrists,2207.5637500000003
+3140,Audiologists,14681.423750000004
+3150,Occupational therapists,119145.51000000008
+3160,Physical therapists,254395.91750000007
+3200,Radiation therapists,15698.465000000002
+3210,Recreational therapists,10448.815000000002
+3220,Respiratory therapists,97358.65500000003
+3230,Speech-language pathologists,150286.2025
+3235,Exercise Physiologists,623.9075
+3245,Therapists all other,199684.3099999999
+3250,Veterinarians,86070.44499999996
+3255,Registered nurses,2958227.8299999763
+3256,Nurse anesthetists,27569.0125
+3257,Nurse midwives,842.2225000000001
+3258,Nurse practitioners,151453.47749999995
+3260,Health diagnosing and treating practitioners all other,31392.6825
+3300,Clinical laboratory technologists and technicians,356258.3575000003
+3310,Dental hygienists,183386.72125000006
+3320,Diagnostic related technologists and technicians,331383.0675000001
+3400,Emergency medical technicians and paramedics,198642.85125000027
+3420,Health practitioner support technologists and technicians ,596793.0225000005
+3500,Licensed practical and licensed vocational nurses,625212.6487500025
+3510,Medical records and health information technicians,146541.75000000006
+3520,Opticians dispensing,50656.64500000003
+3535,Miscellaneous health technologists and technicians,140296.83749999994
+3540,Other healthcare practitioners and technical occupations,103248.15625
+3600,Nursing psychiatric and home health aides,2066475.987499995
+3610,Occupational therapist assistants and aides,25334.88000000001
+3620,Physical therapist assistants and aides,82337.57125000004
+3630,Massage therapists,171811.31375000018
+3640,Dental assistants,284789.49624999973
+3645,Medical assistants,503475.4862499997
+3646,Medical transcriptionists,45054.50750000004
+3647,Pharmacy aides,41386.81750000003
+3648,Veterinary assistants and labratory animal caretakers,52174.98125
+3649,Phlebotmists,115307.23875000003
+3655,Miscellaneous healthcare support occupations including medical equipment preparers,176604.14874999985
+3700,First-line supervisors/managers of correctional officers,46089.36874999999
+3710,First-line supervisors/managers of police and detectives,103175.80499999988
+3720,First-line supervisors/managers of fire fighting and preventions workers,49284.45624999999
+3730,Supervisors protective service workers all other,84532.37625000006
+3740,Fire fighters,283659.9699999996
+3750,Fire inspectors,19120.24000000001
+3800,Bailiffs correctional officers and jailers,393438.19375000003
+3820,Detectives and criminal investigators,146432.28875
+3830,Fish and game wardens,822.35
+3840,Parking enforcement workers,9376.518750000001
+3850,Police and sheriff's patrol officers,658745.4949999991
+3860,Transit and railroad police,2149.335
+3900,Animal control workers,12778.258749999997
+3910,Private detectives and investigators,94897.89125000006
+3930,Security guards and gaming surveillance officers,955200.2887499993
+3940,Crossing guards,69294.87125000003
+3945,Transportation security screeners,40497.05
+3955,Lifeguards and other recreational and all other protective service workers,106447.78000000003
+4000,Chefs and head cooks,438751.4612499999
+4010,First-line supervisors/managers of food preparation and serving workers,558712.5612500004
+4020,Cooks,2126880.964999996
+4030,Food preparation workers,932988.1612499984
+4040,Bartenders,453138.70500000013
+4050,Combined food preparation and serving workers including fast food,357229.28624999995
+4060,Counter attendants cafeteria food concession and coffee shop,207661.58499999982
+4110,Waiters and waitresses,2031529.5862499904
+4120,Food servers nonrestaurant,210339.95499999984
+4130,Dining room and cafeteria attendants bartender helpers and miscellaneous food preparation and serving related workers,352328.2800000004
+4140,Dishwashers,294093.4962499994
+4150,Hosts and hostesses restaurant lounge and coffee shop,285182.24750000023
+4160,Food preparation and serving related workers all other,811.40625
+4200,First-line supervisors/managers of housekeeping and janitorial workers,317610.28500000027
+4210,First-line supervisors/managers of landscaping lawn service and groundskeeping workers,237140.59250000006
+4220,Janitors and building cleaners,2302350.1587499822
+4230,Maids and housekeeping cleaners,1469701.342500002
+4240,Pest control workers,78145.7849999999
+4250,Grounds maintenance workers,1251216.692499998
+4300,First-line supervisors/managers of gaming workers,163670.20249999996
+4320,First-line supervisors/managers of personal service workers,196269.70874999987
+4340,Animal trainers,43329.32250000001
+4350,Nonfarm animal caretakers,224590.10999999987
+4400,Gaming services workers,90237.91000000002
+4410,Motion picture projectionists,4276.39625
+4420,Ushers lobby attendants and ticket takers,43124.24749999998
+4430,Miscellaneous entertainment attendants and related workers,180571.70249999975
+4460,Funeral service workers ,15108.788750000002
+4465,Morticians undertakers and funeral directors (2011 forward),38034.317500000005
+4500,Barbers,113187.92000000006
+4510,Hairdressers hairstylists and cosmetologists,781375.0537499997
+4520,Miscellaneous personal appearance workers,322572.20250000065
+4530,Baggage porters bellhops and concierges,78922.5
+4540,Tour and travel guides,44976.55624999999
+4600,Child care workers,1221930.3349999988
+4610,Personal and home care aides,1295024.175
+4620,Recreation and fitness workers,394436.42999999947
+4640,Residential advisors,47805.50750000001
+4650,Personal care and service workers all other,140028.10749999995
+4700,First-line supervisors/managers of retail sales workers,3264596.009999984
+4710,First-line supervisors/managers of non-retail sales workers,1187707.8525000028
+4720,Cashiers,3263393.077500005
+4740,Counter and rental clerks,111140.90250000004
+4750,Parts salespersons,119248.55999999997
+4760,Retail salespersons,3220053.2325000013
+4800,Advertising sales agents,225719.76000000004
+4810,Insurance sales agents,601911.6674999981
+4820,Securities commodities and financial services sales agents,261010.61500000022
+4830,Travel agents,80634.14750000004
+4840,Sales representatives services all other,495515.33124999935
+4850,Sales representatives wholesale and manufacturing,1266604.768750001
+4900,Models demonstrators and product promoters,80621.21875000003
+4920,Real estate brokers and sales agents,894786.770000002
+4930,Sales engineers,35749.24875
+4940,Telemarketers,78018.02125000006
+4950,Door-to-door sales workers news and street vendors and related workers,163858.26750000028
+4965,Sales and related workers all other,255076.2162500002
+5000,First-line supervisors/managers of office and administrative support workers,1430523.4524999978
+5010,Switchboard operators including answering service,27748.287500000006
+5020,Telephone operators,34040.20875000001
+5030,Communications equipment operators all other,8022.179999999999
+5100,Bill and account collectors,168715.39624999993
+5110,Billing and posting clerks and machine operators,464275.44000000064
+5120,Bookkeeping accounting and auditing clerks,1156812.3874999955
+5130,Gaming cage workers,9417.65125
+5140,Payroll and timekeeping clerks,145294.73750000016
+5150,Procurement clerks,27306.465000000004
+5160,Tellers,355673.11500000017
+5165,Financial clerks all other,70601.25749999998
+5200,Brokerage clerks,4861.3875
+5210,Correspondence clerks,2821.4887500000004
+5220,Court municipal and license clerks,89257.33499999992
+5230,Credit authorizers checkers and clerks,42688.70249999999
+5240,Customer service representatives,2266284.886249997
+5250,Eligibility interviewers government programs,80462.98749999999
+5260,File clerks,245395.13750000027
+5300,Hotel motel and resort desk clerks,126413.96375000001
+5310,Interviewers except eligibility and loan,167387.43375000008
+5320,Library assistants clerical,90017.24250000004
+5330,Loan interviewers and clerks,141422.1612499999
+5340,New accounts clerks,22968.328750000008
+5350,Order clerks,107619.46000000002
+5360,Human resources assistants except payroll and timekeeping,60645.081249999945
+5400,Receptionists and information clerks,1335294.7499999981
+5410,Reservation and transportation ticket agents and travel clerks,123869.18625000004
+5420,Information and record clerks all other,111186.64375000013
+5500,Cargo and freight agents,21526.8425
+5510,Couriers and messengers,247907.53749999977
+5520,Dispatchers,291097.93874999986
+5530,Meter readers utilities,28025.263750000002
+5540,Postal service clerks,124840.65624999997
+5550,Postal service mail carriers,323852.7925
+5560,Postal service mail sorters processors and processing machine operators,68750.77249999998
+5600,Production planning and expediting clerks,261757.66250000018
+5610,Shipping receiving and traffic clerks,574512.2562499978
+5620,Stock clerks and order fillers,1563284.783750005
+5630,Weighers measurers checkers and samplers record keeping,66375.52875000001
+5700,Secretaries and administrative assistants,2819662.288749998
+5800,Computer operators,94210.90249999994
+5810,Data entry keyers,293477.32624999975
+5820,Word processors and typists,98733.85624999991
+5830,Desktop publishers,882.02375
+5840,Insurance claims and policy processing clerks,290492.0537499996
+5850,Mail clerks and mail machine operators except postal service,84573.26625
+5860,Office clerks general,1243357.7612500065
+5900,Office machine operators except computer,35238.55750000002
+5910,Proofreaders and copy markers,7524.728749999998
+5920,Statistical assistants,24904.583750000005
+5940,Office and administrative support workers all other,541424.9250000007
+6005,First-line supervisors of farming fishing and forestry workers,54958.47124999997
+6010,Agricultural inspectors,20328.955000000005
+6020,Animal breeders,1258.45
+6040,Graders and sorters agricultural products,108372.82500000001
+6050,Miscellaneous agricultural workers,800416.005
+6100,Fishers and related fishing workers,36995.366250000014
+6110,Hunters and trappers,296.3125
+6120,Forest and conservation workers,22015.308749999997
+6130,Logging workers,68005.96875000006
+6200,First-line supervisors/managers of construction trades and extraction workers,679279.7375000004
+6210,Boilermakers,24033.66500000001
+6220,Brickmasons blockmasons and stonemasons,159203.58374999982
+6230,Carpenters,1345939.1912500055
+6240,Carpet floor and tile installers and finishers,157429.0712499999
+6250,Cement masons concrete finishers and terrazzo workers,63434.605000000025
+6260,Construction laborers,1743467.8437500042
+6300,Paving surfacing and tamping equipment operators,16803.12375
+6310,Pile-driver operators,549.6487500000001
+6320,Operating engineers and other construction equipment operators,375168.97875000053
+6330,Drywall installers ceiling tile installers and tapers,160103.83874999997
+6355,Electricians,787780.7362500012
+6360,Glaziers,49968.13249999999
+6400,Insulation workers,50733.03875000001
+6420,Painters construction and maintenance,572069.3137500002
+6430,Paperhangers,196.67125
+6440,Pipelayers plumbers pipefitters and steamfitters,607337.6174999996
+6460,Plasterers and stucco masons,28116.66125
+6500,Reinforcing iron and rebar workers,7741.193749999999
+6515,Roofers,243761.60249999998
+6520,Sheet metal workers,123464.20875000009
+6530,Solar Photovoltaic Installers,73305.92625000005
+6540,Structural iron and steel workers,1830.5900000000001
+6600,Helpers construction trades,66249.92875000005
+6660,Construction and building inspectors,92868.88
+6700,Elevator installers and repairers,29063.007499999992
+6710,Fence erectors,34770.73125000002
+6720,Hazardous materials removal workers,35622.88625000001
+6730,Highway maintenance workers,109137.065
+6740,Rail-track laying and maintenance equipment operators,7416.113749999999
+6750,Septic tank servicers and sewer pipe cleaners,9623.666250000004
+6765,Miscellaneous construction and related workers,40670.887500000004
+6800,Derrick rotary drill and service unit operators oil gas and mining,37263.35624999999
+6820,Earth drillers except oil and gas,30194.37749999998
+6830,Explosives workers ordnance handling experts and blasters,12352.573750000003
+6840,Mining machine operators,65084.252499999995
+6910,Roof bolters mining,799.8225000000001
+6920,Roustabouts oil and gas,8103.148750000001
+6930,Helpers -- extraction workers,2511.74125
+6940,Other extraction workers,64309.09
+7000,First-line supervisors/managers of mechanics installers and repairers,270868.3300000004
+7010,Computer automated teller and office machine repairers,252026.33750000023
+7020,Radio and telecommunications equipment installers and repairers,146767.79249999992
+7030,Avionics technicians,9259.59375
+7040,Electric motor power tool and related repairers,24956.735000000004
+7050,Electrical and electronics installers and repairers transportation equipment,1660.3525
+7100,Electrical and electronics repairers industrial and utility,16268.68875
+7110,Electronic equipment installers and repairers motor vehicles,14142.700000000003
+7120,Electronic home entertainment equipment installers and repairers,48751.12375000003
+7130,Security and fire alarm systems installers,60346.71375000002
+7140,Aircraft mechanics and service technicians,154311.54374999995
+7150,Automotive body and related repairers,141561.00500000015
+7160,Automotive glass installers and repairers,22900.253750000007
+7200,Automotive service technicians and mechanics,861875.3725000022
+7210,Bus and truck mechanics and diesel engine specialists,340128.4200000007
+7220,Heavy vehicle and mobile equipment service technicians and mechanics,203445.4050000001
+7240,Small engine mechanics,49703.99375000002
+7260,Miscellaneous vehicle and mobile equipment mechanics installers and repairers,93493.66875000007
+7300,Control and valve installers and repairers,23015.352499999994
+7315,Heating air conditioning and refrigeration mechanics and installers,393604.9862500006
+7320,Home appliance repairers,43702.29499999999
+7330,Industrial and refractory machinery mechanics,403103.01124999917
+7340,Maintenance and repair workers general,500840.5450000011
+7350,Maintenance workers machinery,28387.169999999987
+7360,Millwrights,59246.25874999998
+7410,Electrical power-line installers and repairers,130033.50124999993
+7420,Telecommunications line installers and repairers,186918.18249999973
+7430,Precision instrument and equipment repairers,66806.27500000001
+7440,Wind turbine service technicians,244.46125
+7510,Coin vending and amusement machine servicers and repairers,40463.85625000001
+7520,Commercial divers,212.48625
+7540,Locksmiths and safe repairers,29384.492499999986
+7550,Manufactured building and mobile home installers,9826.5075
+7560,Riggers,14736.850000000004
+7600,Signal and track switch repairers,1177.3725
+7610,Helpers--installation maintenance and repair workers,20778.720000000005
+7630,Other installation maintenance and repair workers,202737.47249999995
+7700,First-line supervisors/managers of production and operating workers,779727.6375000027
+7710,Aircraft structure surfaces rigging and systems assemblers,10654.783749999999
+7720,Electrical electronics and electromechanical assemblers,149779.69250000006
+7730,Engine and other machine assemblers,14155.790000000006
+7740,Structural metal fabricators and fitters,30685.003750000014
+7750,Miscellaneous assemblers and fabricators,1061193.5412499993
+7800,Bakers,210445.96625000014
+7810,Butchers and other meat poultry and fish processing workers,301569.4274999997
+7830,Food and tobacco roasting baking and drying machine operators and tenders,13429.616250000001
+7840,Food batchmakers,82883.77249999998
+7850,Food cooking machine operators and tenders,14826.437499999996
+7855,Food processing workers all other,130771.98875000003
+7900,Computer control programmers and operators,91772.09375000009
+7920,Extruding and drawing machine setters operators and tenders metal and plastic,13547.336250000004
+7930,Forging machine setters operators and tenders metal and plastic,1550.6662500000002
+7940,Rolling machine setters operators and tenders metal and plastic,12756.506250000006
+7950,Cutting punching and press machine setters operators and tenders metal and plastic,81394.86375000002
+7960,Drilling and boring machine tool setters operators and tenders metal and plastic,1635.55875
+8000,Grinding lapping polishing and buffing machine tool setters operators and tenders metal and plastic,48391.655000000006
+8010,Lathe and turning machine tool setters operators and tenders metal and plastic,15401.123749999999
+8020,Milling and planing machine setters operators and tenders metal and plastic,1018.2575
+8030,Machinists,392229.59999999945
+8040,Metal furnace and kiln operators and tenders,25710.7575
+8060,Model makers and patternmakers metal and plastic,2117.7762500000003
+8100,Molders and molding machine setters operators and tenders metal and plastic,42846.33624999998
+8120,Multiple machine tool setters operators and tenders metal and plastic,848.5362500000001
+8130,Tool and die makers,54329.99125000006
+8140,Welding soldering and brazing workers,617307.5262499991
+8150,Heat treating equipment setters operators and tenders metal and plastic,746.2275
+8160,Lay-out workers metal and plastic,1519.17875
+8200,Plating and coating machine setters operators and tenders metal and plastic,20872.139999999992
+8210,Tool grinders filers and sharpeners,5606.435000000001
+8220,Metalworkers and plastic workers all others,411831.0000000003
+8250,Prepress technicians and workers,29749.57624999999
+8255,Printing machine operators,184908.43999999994
+8256,Print binding and finishing workers,17465.15874999999
+8300,Laundry and dry-cleaning workers,178334.38250000015
+8310,Pressers textile garment and related materials,39991.19125000001
+8320,Sewing machine operators,203778.16875000024
+8330,Shoe and leather workers and repairers,10992.191250000005
+8340,Shoe machine operators and tenders,2180.95875
+8350,Tailors dressmakers and sewers,88232.45999999995
+8360,Textile bleaching and dyeing machine operators and tenders,875.08125
+8400,Textile cutting machine setters operators and tenders,8535.175
+8410,Textile knitting and weaving machine setters operators and tenders,12882.440000000004
+8420,Textile winding twisting and drawing out machine setters operators and tenders,12583.160000000002
+8430,Extruding and forming machine setters operators and tenders synthetic and glass fibers,770.1712500000001
+8440,Fabric and apparel patternmakers,934.8199999999999
+8450,Upholsterers,35726.22375
+8460,Textile apparel and furnishings workers all others,26167.8625
+8500,Cabinetmakers and bench carpenters,60287.6425
+8510,Furniture finishers,15217.563750000005
+8530,Sawing machine setters operators and tenders wood,31912.16499999999
+8540,Woodworking machine setters operators and tenders except sawing,22166.888750000002
+8550,Woodworkers all others,29411.608750000007
+8600,Power plant operators distributors and dispatchers,42851.28750000003
+8610,Stationary engineers and boiler operators,82937.8075
+8620,Water and liquid waste treatment plant and system operators,83966.08749999998
+8630,Miscellaneous plant and system operators,36570.89499999999
+8640,Chemical processing machine setters operators and tenders,63774.32625
+8650,Crushing grinding polishing mixing and blending workers,89052.47375
+8710,Cutting workers,66647.29499999998
+8720,Extruding forming pressing and compacting machine setters operators and tenders,32438.543749999983
+8730,Furnace kiln oven drier and kettle operators and tenders,14637.442500000003
+8740,Inspectors testers sorters samplers and weighers,748907.4387499988
+8750,Jewelers and precious stone and metal workers,45625.784999999974
+8760,Medical dental and ophthalmic laboratory technicians,90999.19625000002
+8800,Packaging and filling machine operators and tenders,289304.2325
+8810,Painting workers,149559.45500000002
+8830,Photographic process workers and processing machine operators,33800.685000000005
+8840,Semiconductor processors,1270.6475
+8850,Cementing and gluing machine operators and tenders,10102.814999999999
+8860,Cleaning washing and metal pickling equipment operators and tenders,4931.368750000001
+8900,Cooling and freezing equipment operators and tenders,1077.9175
+8910,Etchers and engravers,8868.49375
+8920,Molders shapers and casters except metal and plastic,37269.61999999998
+8930,Paper goods machine setters operators and tenders,32097.597500000007
+8940,Tire builders,12054.206249999996
+8950,Helpers--production workers,44907.46125000003
+8965,Production workers all other,980403.9687500007
+9000,Supervisors transportation and material moving workers,191762.44374999986
+9030,Aircraft pilots and flight engineers,116868.48124999995
+9040,Air traffic controllers and airfield operations specialists,32034.64874999999
+9050,Flight attendants,92559.435
+9110,Ambulance drivers and attendants except emergency medical technicians,17728.402500000007
+9120,Bus drivers,602385.3675000004
+9130,Driver/sales workers and truck drivers,3401992.524999985
+9140,Taxi drivers and chauffeurs,537537.2475000005
+9150,Motor vehicle operators all other,62034.01999999998
+9200,Locomotive engineers and operators,45253.48499999999
+9230,Railroad brake signal and switch operators,2021.09875
+9240,Railroad conductors and yardmasters,61450.075000000004
+9260,Subway streetcar and other rail transportation workers,12242.092500000002
+9300,Sailors and marine oilers,28708.318750000002
+9310,Ship and boat captains and operators,38889.353749999995
+9330,Ship engineers,2322.1225
+9340,Bridge and lock tenders,1315.45
+9350,Parking lot attendants,83258.51375
+9360,Service station attendants,88541.01624999997
+9410,Transportation inspectors,36304.29499999998
+9415,Transportation attendants except flight attendants,34752.778750000005
+9420,Other transportation workers,32119.356249999983
+9500,Conveyor operators and tenders,1515.72375
+9510,Crane and tower operators,71222.36250000005
+9520,Dredge excavating and loading machine operators,32914.08249999998
+9560,Hoist and winch operators,10661.338750000003
+9600,Industrial truck and tractor operators,603115.5349999999
+9610,Cleaners of vehicles and equipment,343961.5124999999
+9620,Laborers and freight stock and material movers hand,1996390.9737499966
+9630,Machine feeders and offbearers,27348.016250000004
+9640,Packers and packagers hand,545525.7012499989
+9650,Pumping station operators,22092.613749999997
+9720,Refuse and recyclable material collectors,104126.09624999996
+9730,Shuttle car operators,758.58875
+9740,Tank car truck and ship loaders,835.9425
+9750,Material moving workers all other,56901.861249999994
+9840,Armed forces ,20800.65499999999
