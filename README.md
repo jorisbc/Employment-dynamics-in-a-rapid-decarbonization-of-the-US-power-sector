@@ -1,3 +1,5 @@
+Please cite the accompanying paper: https://www.inet.ox.ac.uk/publications/no-2023-28-employment-dynamics-in-a-rapid-decarbonization-of-the-power-sector (forthcoming in Joule)
+
 energy_scenario_code
 - Standalone R project to calculate the cost from NREL's energy scenarios
 
@@ -6,6 +8,8 @@ data
 
 results:
 - data_out: output data from analysis, both intermediary and final
+- data_out/results_sensitivity/annual_change_sens: core_code output will be placed here
+- data_out/results: cleaner occuaptional trajectory data will be placed here
 - figs: main figures
 
 
